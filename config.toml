@@ -26,7 +26,7 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 build-mode = "module"
 
 [Twitter]
-dpi = "120-640dpi"
+apkmirror-dpi = "120-640dpi"
 module-prop-name = "twitter-miguvt"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android/"
