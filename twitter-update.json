@@ -1,6 +1,6 @@
 {
   "version": "v10.62.1-release.0 (patches: 5.8.0)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/MiguVT/revanced-magisk-migu/releases/download/9/twitter-revanced-magisk-v10.62.1-release.0-all.zip",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/MiguVT/revanced-magisk-migu/releases/download/11/twitter-revanced-magisk-v10.62.1-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/MiguVT/revanced-magisk-migu/update/build.md"
 }
