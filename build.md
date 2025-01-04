@@ -1,5 +1,6 @@
 Instagram: 275.0.0.27.98  
 Reddit: 2024.17.0  
+Twitter: 10.62.1-release.0  
 YouTube: 19.47.53  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
