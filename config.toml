@@ -24,7 +24,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-mu
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 build-mode = "both"
-included-patches = "'SIM spoof'"
+excluded-patches = "'SIM spoof'"
 
 [Twitter]
 version = "latest"
