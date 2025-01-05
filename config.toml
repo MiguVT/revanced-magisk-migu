@@ -37,7 +37,7 @@ module-prop-name = "twitter-miguvt"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 archive-dlurl = "https://archive.org/download/apks-miguvt/apks/com.twitter.android/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-build-mode = "module"
+build-mode = "apk"
 excluded-patches = "'Hide recommended users'"
 
 [YouTube-Extended]
