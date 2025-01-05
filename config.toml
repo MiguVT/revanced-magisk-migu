@@ -25,7 +25,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 module-prop-name = "reddit-miguvt"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage/"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 build-mode = "module"
 
@@ -36,6 +36,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 build-mode = "module"
+excluded-patches = "'Hide recommended users'"
 
 [YouTube-Extended]
 app-name = "Youtube"
