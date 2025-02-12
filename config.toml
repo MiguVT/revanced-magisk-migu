@@ -9,15 +9,6 @@ riplib = false
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 # you can use rvmm-config-gen to generate a config
-
-[Instagram]
-module-prop-name = "instagram-miguvt"
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-# archive-dlurl = "https://archive.org/download/apks-miguvt/apks/com.instagram.android/"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-build-mode = "module"
-arch = "arm64-v8a"
-
 [YouTube-Extended]
 app-name = "Youtube"
 patches-source = "inotia00/revanced-patches"
@@ -28,10 +19,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/apks-miguvt/apks/com.google.android.youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 build-mode = "module"
-
-[Photos]
-app-name = "Google Photos"
-build-mode = "module"
-arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-excluded-patches = "'Restore hidden 'Back up while charging' toggle'"
