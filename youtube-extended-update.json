@@ -1,6 +1,6 @@
 {
-  "version": "v19.44.39 (patches: 5.3.1)",
-  "versionCode": 21,
-  "zipUrl": "https://github.com/MiguVT/revanced-magisk-migu/releases/download/21/youtube-revanced-extended-magisk-v19.44.39-all.zip",
+  "version": "v19.44.39 (patches: 5.4.1)",
+  "versionCode": 24,
+  "zipUrl": "https://github.com/MiguVT/revanced-magisk-migu/releases/download/24/youtube-revanced-extended-magisk-v19.44.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/MiguVT/revanced-magisk-migu/update/build.md"
 }
