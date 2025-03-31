@@ -14,8 +14,11 @@ app-name = "Youtube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-module-prop-name = "youtube-miguvt"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-archive-dlurl = "https://archive.org/download/apks-miguvt/apks/com.google.android.youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+build-mode = "apk"
+
+[Spotify]
+app-name = "Spotify"
+uptodown-dlurl = "https://spotify.uptodown.com/android"
 build-mode = "apk"
