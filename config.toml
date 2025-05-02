@@ -19,6 +19,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 build-mode = "apk"
 
 [Spotify]
+enabled = false
 app-name = "Spotify"
 archive-dlurl = "https://archive.org/download/apks-miguvt/apks/com.spotify.com/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
